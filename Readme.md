@@ -1,6 +1,6 @@
 ## A GraphQL API for a service
 
-`npm i`
+`yarn`
 `yarn startserver`
 
 Visit `localhost:4000` to interact with server.
